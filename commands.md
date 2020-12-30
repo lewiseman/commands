@@ -14,3 +14,6 @@ take a snapshot of the files in the repo
 
 ## git status
 check the status of your code
+
+## git remote add origin https-link
+add a new remote repository
