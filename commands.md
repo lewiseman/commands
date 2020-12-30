@@ -56,3 +56,6 @@ to pull from github when changes made on the github and want them to reflect on 
 
 ## git branch -d branch-name
 delete a branch
+
+## git commit -am "message"
+commit and add at the same time
