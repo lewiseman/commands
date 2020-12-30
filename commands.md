@@ -33,6 +33,9 @@ go to another new branch
 ## git checkout existing-branch
 switch to an existing branch
 
+## git diff feature
+see the difference between files you want to merge
+
 ## git config --global user.name "[name]"
 Sets the name you want attached to your commit transactions
 
