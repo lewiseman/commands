@@ -44,3 +44,12 @@ Sets the email you want attached to your commit transactions
 
 ## git config --global color.ui auto
 Enables helpful colorization of command line output
+
+## git push
+use this cmd when pushing a new branch to see how it should be done
+
+## git pull
+when upstream is set , to pull from github when changes made on the github and want them to reflect on local machine
+
+## git pull origin master
+to pull from github when changes made on the github and want them to reflect on local machine
