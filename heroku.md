@@ -15,6 +15,6 @@ ALLOWED_HOSTS = ['text-test-heroku.herokuapp.com', '127.0.0.1:8000']
 python-3.7.9
 
 ## create a Procfile file to say from where it would beserved
-(make sure to have installed gunicorn in pip)
-web: gunicorn MovieReview.wsgi --log-file -
-MovieReview is folder where wsgi is located
+(make sure to have installed gunicorn in pip)  
+web: gunicorn MovieReview.wsgi --log-file -   
+MovieReview is folder where wsgi is located  
