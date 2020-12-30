@@ -5,7 +5,7 @@ pip freeze > requirements.txt
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 ## tell heroku how to serve them with whitenoise
-add this in settings.MIDDLEWARE below security
+add this in settings.MIDDLEWARE below security    
 'whitenoise.middleware.WhiteNoiseMiddleware',
 
 ## add allowed hosts, name of app and local host url example
