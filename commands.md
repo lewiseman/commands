@@ -53,3 +53,6 @@ when upstream is set , to pull from github when changes made on the github and w
 
 ## git pull origin master
 to pull from github when changes made on the github and want them to reflect on local machine
+
+## git branch -d branch-name
+delete a branch
