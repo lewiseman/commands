@@ -59,3 +59,6 @@ delete a branch
 
 ## git commit -am "message"
 commit and add at the same time
+
+##  git push -u origin master:feature
+push to different branch
