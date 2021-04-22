@@ -48,6 +48,9 @@ Enables helpful colorization of command line output
 ## git push
 use this cmd when pushing a new branch to see how it should be done
 
+## git push --force
+push regardless of the difference in the remote repo
+
 ## git pull
 when upstream is set , to pull from github when changes made on the github and want them to reflect on local machine
 
